@@ -395,3 +395,8 @@ body {
 .color {
     color: #fcac45;
 }
+
+.center {
+	padding: 100px 0;
+    text-align: center;
+}
