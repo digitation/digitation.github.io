@@ -386,7 +386,7 @@ body {
     text-align: center;
 }
 .stylish-panel > div > div{
-    padding: 10px;
+    /* padding: 10px; */
     border: 1px solid transparent;
     border-radius: 4px;
     transition: 0.2s;
